@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Israel Ebiloma
 - 👀 I’m a data analyst
 - 🌱 I have a deep fascination with artificial intelligence and a strong interest in data science and machine learning.
-- 💞️ I’m looking to collaborate on project
+- 💞️ I’m eager to further develop my skills and gain more practical experience.
 - 📫 You can reach me on ebilomaisrael@gmail.com 
 
 <!---
